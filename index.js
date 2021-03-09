@@ -43,8 +43,7 @@ function decrement(a) {
 }
 
 function makeInt(n) {
-  return parseInt(n)parseInt('a',10)
-  
+  return parseInt(n, 10)
 }
 
 
