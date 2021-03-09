@@ -14,4 +14,3 @@ function divide() {
   
 }
 
-function add(38+5)
