@@ -14,4 +14,4 @@ function divide() {
   
 }
 
-function add(385+1)
+function add(38+5)
