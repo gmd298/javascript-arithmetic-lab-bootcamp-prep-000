@@ -44,7 +44,7 @@ function decrement(a) {
 
 function makeInt(n) {
  const base = 10
-    return parseInt(a())
+    return parseInt(a(n))
 }
 
 
