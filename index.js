@@ -1,6 +1,6 @@
 var a = 1
 var b = 2
-
+var n = 379
 
 function add() {
 
@@ -35,5 +35,5 @@ function divide(a, b) {
 }
 
 function increment(n) {
-  return (a++)
+  return (n++)
 }
