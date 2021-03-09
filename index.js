@@ -34,4 +34,6 @@ function divide(a, b) {
   return (a / b)
 }
 
-return (a++)
+function increment(n) {
+  return (a++)
+}
