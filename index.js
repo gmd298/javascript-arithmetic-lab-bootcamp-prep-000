@@ -1,6 +1,6 @@
 var a = 1
 var b = 2
- 
+var n = 3
 
 function add() {
 
@@ -42,10 +42,10 @@ function decrement(a) {
   return (--a)
 }
 
-function makeInt(Int) {
-  var n = 1
+function makeInt(n) {
   return (n(a))
 }
+
 
 
 
