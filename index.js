@@ -1,2 +1,15 @@
-add(1+2)
+function add() {
+  
+}
 
+function subtract() {
+  
+}
+
+function multiply() {
+  
+}
+
+function divide() {
+  
+}
