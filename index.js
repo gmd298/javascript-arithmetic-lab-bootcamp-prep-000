@@ -42,7 +42,10 @@ function decrement(a) {
   return (--a)
 }
 
-
+function makeInt(n) {
+  var n = '1'
+  return ()
+}
 
 
 
