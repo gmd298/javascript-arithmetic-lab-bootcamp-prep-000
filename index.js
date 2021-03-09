@@ -42,9 +42,9 @@ function decrement(a) {
   return (--a)
 }
 
-function makeInt(n) {
-  parseInt('1', n) 
-    return parseint('a'(n))
+function makeInt(a) {
+  parseInt(`a`, 10) 
+    return ('a'(10))
   
 }
 
