@@ -38,8 +38,8 @@ function increment(a) {
   return (++a)
 }
 
-function increment(b) {
-  return (--b)
+function decrement(a) {
+  return (--a)
 }
 
 
