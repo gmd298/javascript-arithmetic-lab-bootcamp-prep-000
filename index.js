@@ -42,9 +42,9 @@ function decrement(a) {
   return (--a)
 }
 
-function makeInt(n) {
-  var n = '1'
-  return ()
+function makeInt(Int) {
+  var n = 1
+  return ('Int'(a))
 }
 
 
