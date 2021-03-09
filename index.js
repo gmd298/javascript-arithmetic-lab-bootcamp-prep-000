@@ -1,7 +1,9 @@
+var a = 1
+var b = 2
 
 
 function add() {
-  var = ''
+
 }
 
 function subtract() {
@@ -16,3 +18,4 @@ function divide() {
   
 }
 
+add(a, b)
