@@ -44,7 +44,7 @@ function decrement(a) {
 
 function makeInt(Int) {
   var n = 1
-  return ('Int'(a))
+  return (n(a))
 }
 
 
