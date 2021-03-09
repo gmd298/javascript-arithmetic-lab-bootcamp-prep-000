@@ -1,6 +1,6 @@
 var a = 1
 var b = 2
-var n = 10
+
 
 function add() {
 
@@ -42,9 +42,9 @@ function decrement(a) {
   return (--a)
 }
 
-function makeInt(a) {
+function makeInt(n) {
   parseInt(`a`, 10) 
-    return ('a'(10))
+    return (n)
   
 }
 
